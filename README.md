@@ -1,2 +1,3 @@
-# hello-git
-first time to used Git
+# hello-gitHub
+first time to used Git 
+print("Hello world")
